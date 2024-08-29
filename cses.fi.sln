@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.WeirdAlgorithm", "1.Weird
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.MissingNumber", "2.MissingNumber\2.MissingNumber.vcxproj", "{8FC68032-0BF1-4070-92D6-C681A44266E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.DistinctNumbers", "3.DistinctNumbers\3.DistinctNumbers.vcxproj", "{A79C29BF-1449-49E1-A45C-F91D2923422B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{8FC68032-0BF1-4070-92D6-C681A44266E2}.Release|x64.Build.0 = Release|x64
 		{8FC68032-0BF1-4070-92D6-C681A44266E2}.Release|x86.ActiveCfg = Release|Win32
 		{8FC68032-0BF1-4070-92D6-C681A44266E2}.Release|x86.Build.0 = Release|Win32
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Debug|x64.ActiveCfg = Debug|x64
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Debug|x64.Build.0 = Debug|x64
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Debug|x86.ActiveCfg = Debug|Win32
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Debug|x86.Build.0 = Debug|Win32
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Release|x64.ActiveCfg = Release|x64
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Release|x64.Build.0 = Release|x64
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Release|x86.ActiveCfg = Release|Win32
+		{A79C29BF-1449-49E1-A45C-F91D2923422B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
